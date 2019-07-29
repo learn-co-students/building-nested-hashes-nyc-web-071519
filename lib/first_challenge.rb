@@ -1,3 +1,8 @@
 def first_challenge
-   epic_tragedy = {}
+   # set the epic_tragedy to hash with two key/value pairs
+   epic_tragedy = {
+         :montague => {},
+         :capulet => {}
+   }
+
 end
